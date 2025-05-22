@@ -1,0 +1,16 @@
+Find species related to Panthera.
+Show me all species that include the word Panthera.
+Can you look up the taxonomy of Panthera leo?
+Find all species under the genus Corvus.
+Give me species names within the family Felidae.
+What species are in the order Primates?
+Find the scientific name of the African lion.
+What’s the species name for the tiger?
+Give me species information about blue whales.
+Are there any synonyms for the species Panthera tigris?
+Give me all known variants of Homo sapiens.
+Search for species related to orchids.
+What species are associated with frogs?
+Find species for trees found in tropical regions.
+Extract the main search term from: 'Can you show me species related to jellyfish?'
+Extract search keyword from: 'Look up any plants in the mint family.'
