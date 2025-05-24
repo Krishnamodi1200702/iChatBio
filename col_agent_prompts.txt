@@ -14,3 +14,30 @@ What species are associated with frogs?
 Find species for trees found in tropical regions.
 Extract the main search term from: 'Can you show me species related to jellyfish?'
 Extract search keyword from: 'Look up any plants in the mint family.'
+Show me species related to Panthera
+Find species in the genus Quercus
+Give me 5 species from the family Felidae
+What are some species in the order Carnivora?
+List species under the class Amphibia
+Give me genus-level entries for Rosa
+What is the accepted name for Felis concolor?
+Are there any synonyms for the species Canis lupus?
+Find alternate names for the genus Acacia
+Summarize species from genus Panthera
+Tell me what you know about insect species in order Lepidoptera
+Show classification and summary for genus Salmo
+Show full classification for Felis catus
+I want hierarchical data for family Rosaceae
+List the taxonomic lineage of Homo sapiens
+Export all species under order Coleoptera to a CSV
+Get 10 examples of genus Eucalyptus and save them
+Save butterfly species to a CSV file
+Limit results to 15 species in genus Panthera
+Search for 25 species in the family Orchidaceae
+What are 3 plant species in order Poales?
+What’s the classification of xyzxyz?
+Give me info on species in “!”
+Find species from an unknown order “Xylogon”
+Give me 10 species in the genus Felis
+
+--> This is a list of all the possible types of how this agent can be used.
