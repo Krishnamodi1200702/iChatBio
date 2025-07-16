@@ -293,4 +293,4 @@ if __name__ == "__main__":
     print("Press Ctrl+C to stop")
     
     # ONLY CHANGE #5 - Accept external connections
-    run_agent_server(agent, host="0.0.0.0", port=port)
+    run_agent_server(agent, host="0.0.0.0", port=3000)
