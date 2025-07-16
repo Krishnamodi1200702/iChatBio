@@ -1,3 +1,13 @@
-# iChatBio
-iChatBio is an open-source platform that connects biodiversity researchers, educators, and enthusiasts with biological data using intelligent language agents powered by Large Language Models (LLMs) like GPT-3.
-I am working with CoL (catalogue of life) API to build an agent that adds more functionality to iChatBio. The Catalogue of Life is primarily a taxonomy-focused database. CoL based agent, like this one, can do Taxonomic hierarchy, gives scientific names and synonyms or other acceptable names. 
+# Catalogue of Life Agent
+
+A taxonomic search agent for iChatBio that integrates with the Catalogue of Life database.
+
+## Files
+- `col_standalone_agent.py` - Standalone interactive version
+- `col_agent_new_sdk.py` - iChatBio SDK integrated version
+
+## Deployment
+Deployed on Railway for iChatBio beta integration.
+
+## Environment Variables
+- `OPENAI_API_KEY`: Your OpenAI API key

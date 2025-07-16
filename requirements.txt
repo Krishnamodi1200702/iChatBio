@@ -1,0 +1,9 @@
+ichatbio-sdk
+a2a-sdk[sqlite]
+python-dotenv
+openai
+instructor
+pydantic
+requests
+sqlalchemy
+aiosqlite
